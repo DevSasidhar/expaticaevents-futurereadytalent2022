@@ -3,7 +3,6 @@ import hashlib
 import csv
 import pandas as pd
 import os
-from azure.storage.blob import  BlobServiceClient
 from django.core.mail import BadHeaderError, send_mail,EmailMessage
 from django.conf import settings
 import base64
