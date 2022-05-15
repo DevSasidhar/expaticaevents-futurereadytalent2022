@@ -101,7 +101,7 @@ def stat(request):
     password = url.password
     host = url.hostname
     port = url.port"""
-    mydb = psycopg2.connect(host="expaticaevents.postgres.database.azure.com ",
+    mydb = psycopg2.connect(host="expaticaevents.postgres.database.azure.com",
                                    user="postgres",
                                    password="Sasidhar123",
                                    database="mydb")

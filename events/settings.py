@@ -103,7 +103,7 @@ DATABASES = {
         'NAME': 'mydb',
         'USER': 'postgres',
         'PASSWORD' : 'Sasidhar123',
-        'HOST' : 'expaticaevents.postgres.database.azure.com ',
+        'HOST' : 'expaticaevents.postgres.database.azure.com',
         'PORT': '5432',
     }
 }
